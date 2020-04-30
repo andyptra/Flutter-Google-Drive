@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>951177657359-s0op6mb4h0c4lb1v3t0buj8ster9mvh9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951177657359-s0op6mb4h0c4lb1v3t0buj8ster9mvh9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>951177657359-2h2eh63i7m9cm6ts4mi1armaeo9l6nnt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtjKSnPA3gsaxdqW6Z4FfKKJJm4Q0TVRQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951177657359</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.andyptra.techtest.app</string>
+	<key>PROJECT_ID</key>
+	<string>login-demo-a4e4e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-demo-a4e4e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951177657359:ios:a15673b426e8535214777a</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-demo-a4e4e.firebaseio.com</string>
+</dict>
+</plist>
